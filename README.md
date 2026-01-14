@@ -14,4 +14,4 @@ This is a text based adventure story with multiple path choice, made with java.
 ## Why built this
 I made this project to solidify my basics and to test my coding skills.
 
-made with jdk 21
+-made with jdk 21
